@@ -121,3 +121,4 @@ Improve marketing for low-performing products
 Optimize outlet size for better revenue
 
 ![image alt](https://github.com/Mahendra2525/BLINKIT-SALES-DATA-ANALYSIS/blob/19cb9317f41445c9ce9cdbb427c25a21bcee8485/BlinkIT%20PBI.png)
+![image alt](https://github.com/Mahendra2525/BLINKIT-SALES-DATA-ANALYSIS/blob/0ea633585ddd77a5bdf5e021888977a5e8e8c278/BlinkIT%202%20PBI.png)
