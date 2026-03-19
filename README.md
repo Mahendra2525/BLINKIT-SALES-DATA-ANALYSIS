@@ -119,3 +119,5 @@ Increase stock of high-demand categories
 Improve marketing for low-performing products
 
 Optimize outlet size for better revenue
+
+![image alt](https://github.com/Mahendra2525/BLINKIT-SALES-DATA-ANALYSIS/blob/19cb9317f41445c9ce9cdbb427c25a21bcee8485/BlinkIT%20PBI.png)
